@@ -1,0 +1,6 @@
+### Instruction ###
+Explain whether the conclusion logically follows from the set of statements below. Please report all your reasoning steps. 
+End your reasoning with: Conclusion: True/False.
+
+<premises>
+<conclusion>

@@ -1,0 +1,3 @@
+objects: ["elephant", "tiger", "monkey", "lion"]
+adjectives: ["tall", "small", "hungry", "sleepy", "noisy", "silent", "thirsty", "wild", "tame", "old", "young"]
+places: ["in the zoo"]

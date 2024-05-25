@@ -1,0 +1,10 @@
+model:
+  inference:
+    max_new_tokens: 2024
+    do_sample: True
+    temperature: 0.6
+    top_p: 0.9
+tokenizer:
+  padding_side: "left"
+prompt:
+  system_message: False
