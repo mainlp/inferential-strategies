@@ -20,6 +20,7 @@ This repository contains code to evaluate the reasoning behavior of LLMs in prob
 ## Table of Contents
 - [Setup](#setup)
 - [Instructions](#instructions)
+- [License](#license)
 - [Citation](#citation)
 
 ## Setup
