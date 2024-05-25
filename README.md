@@ -49,6 +49,9 @@ where `<model-name>` is the name of the LLM to be used and `<num-samples>` is th
 
 Note that in order to use a new model, you need to add a configuration file in this [folder](reasoning_strategies/models/model_config).
 
+## Model Responses and Human Annotations
+We publish all model answers and human annotations in our respective HuggingFace data repository: [inferential-strategies](https://huggingface.co/datasets/mainlp/inferential_strategies).
+
 ## License
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
