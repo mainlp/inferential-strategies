@@ -65,13 +65,18 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 If you find this work helpful, please our paper as:
 ```
-@misc{mondorf2024comparing,
-      title={Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning}, 
-      author={Philipp Mondorf and Barbara Plank},
-      year={2024},
-      eprint={2402.14856},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{mondorf-plank-2024-comparing,
+    title = "Comparing Inferential Strategies of Humans and Large Language Models in Deductive Reasoning",
+    author = "Mondorf, Philipp  and Plank, Barbara",
+    editor = "Ku, Lun-Wei  and Martins, Andre  and Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.508",
+    doi = "10.18653/v1/2024.acl-long.508",
+    pages = "9370--9402"
 }
 ```
 
